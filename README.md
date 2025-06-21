@@ -1,23 +1,23 @@
 <h1 align="center">🌑 Hello, I'm Zulkifli 🌑</h1>
 
 <!-- ================== Seksi Dragon ================== -->
-<div align="center" style="border:2px solid #DAA520; border-radius:12px; padding:20px; display:inline-block;">
+<div align="center" style="border:2px solid #DAA520; border-radius:12px; padding:20px; display:inline-block; background: linear-gradient(to right, #121212, #1a1a1a, #121212);">
   <!-- Typing animation dragon -->
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=34&pause=1200&color=000000&center=true&vCenter=true&width=800&lines=Born+from+flame%2C+forged+in+wrath;The+dragon+never+kneels" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=34&pause=1200&color=DAA520&center=true&vCenter=true&width=800&lines=Born+from+flame%2C+forged+in+wrath;The+dragon+never+kneels" alt="Typing SVG" />
   <br><br>
   <!-- Gif dragon -->
-  <img src="https://img1.picmix.com/output/stamp/normal/9/1/7/8/1768719_73395.gif" width="400px" alt="Pixel Dragon"/>
+  <img src="https://img1.picmix.com/output/stamp/normal/9/1/7/8/1768719_73395.gif" width="400px" alt="Pixel Dragon" style="filter: drop-shadow(0 0 8px #8B0000);"/>
 </div>
 
 <br><br>
 
 <!-- ================== Seksi Knight ================== -->
-<div align="center" style="border:2px solid #DAA520; border-radius:12px; padding:20px; display:inline-block;">
+<div align="center" style="border:2px solid #DAA520; border-radius:12px; padding:20px; display:inline-block; background: linear-gradient(to right, #121212, #1a1a1a, #121212);">
   <!-- Typing animation knight -->
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=32&pause=1200&color=000000&center=true&vCenter=true&width=800&lines=In+shadows+he+stands+silent;His+sword+knows+truth+more+than+words" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=32&pause=1200&color=DAA520&center=true&vCenter=true&width=800&lines=In+shadows+he+stands+silent;His+sword+knows+truth+more+than+words" alt="Typing SVG" />
   <br><br>
   <!-- Gif knight -->
-  <img src="https://i.pinimg.com/originals/9d/02/f9/9d02f996b7eb10a7d6b1b2cac05d2538.gif" width="100px" alt="Pixel Knight" />
+  <img src="https://i.pinimg.com/originals/9d/02/f9/9d02f996b7eb10a7d6b1b2cac05d2538.gif" width="100px" alt="Pixel Knight" style="filter: brightness(0.8) sepia(50%) hue-rotate(10deg);"/>
 </div>
 
 <br><br>
@@ -45,3 +45,4 @@
 
 <hr>
 <p align="center"><i>"You have power over your mind not outside events. Realize this, and you will find strength."</i><br>Marcus Aurelius</p>
+
